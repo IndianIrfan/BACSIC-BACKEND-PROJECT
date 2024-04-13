@@ -1,0 +1,20 @@
+{{>start}}
+{{>use}}
+<form action="/contact" method="post">
+  <div class="mb-3 loop1">
+    <label for="email" class="form-label">Email:</label>
+    <input type="email" class="form-control" name="email" aria-describedby="emailHelp" autocomplete="off">  
+  </div>
+  <div class="mb-3 loop2">
+    <label for="username" class="form-label">Username:</label>
+    <input type="text" class="form-control" name="username" autocomplete="off" >
+  </div>
+  
+  <div class="mb-3 loop3">
+    <label for="pno" class="form-label">Pno:</label>
+    <input type="number" class="form-control" name="pno" autocomplete="off">
+  </div>
+  
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+{{>end}}
