@@ -1,5 +1,5 @@
 # BASIC-BACKEND-PROJECT
-BASIC BACKEND PROJECT FOR UNDERSTANDING OF ROUTING CONCEPT
+                 BASIC BACKEND PROJECT FOR UNDERSTANDING OF ROUTING CONCEPT
 
 * This project is a basic backend application aimed at understanding routing using Express, which is a framework for Node.js. Additionally, the project is connected to a MongoDB database. Below are the key points about this project:
 
@@ -17,7 +17,7 @@ BASIC BACKEND PROJECT FOR UNDERSTANDING OF ROUTING CONCEPT
 
 
 
-  HOW TO USE :
+                                               HOW TO USE :
 
   
 * Clone the repository to your local machine.
@@ -28,7 +28,7 @@ BASIC BACKEND PROJECT FOR UNDERSTANDING OF ROUTING CONCEPT
 
 
 
-   ADDITONAL NOTES :
+                                          ADDITONAL NOTES :
 
   
 * Ensure that MongoDB is installed and running on your local machine or provide connection details to a remote MongoDB instance.
